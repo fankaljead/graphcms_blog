@@ -6,7 +6,7 @@ import { getRecentPosts, getSimilarPosts } from "../services/index";
 import { PostDetail } from "../types";
 
 interface IProps {
-  slug: string;
+  slug?: string;
   categories: string[];
 }
 
