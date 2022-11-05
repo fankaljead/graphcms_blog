@@ -26,7 +26,7 @@ const Home = ({ posts }: IProps) => {
   return (
     <div className="container mx-auto px-10 mb-8">
       <Head>
-        <title>CMS Blog</title>
+        <title>Fankaljead's Graph CMS Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
